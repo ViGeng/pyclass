@@ -1,0 +1,49 @@
+pj1
+16300120148 : only calculate circle area?
+18307090206 : err
+'19307100084: wrong ans
+
+PJ2
+
+16300120110: 要求提交一个可以执行的py程序,而不是提交一个工程,提交多个文件, 这边想批改还得给修改导入包的路径.
+PJ2
+16300120008 : a
+PJ2
+16300120170 : function unfinished
+16301030056 : wrong ans
+16307130247 : run err
+17300290011 : run err
+17300680160 : ans not friendly
+17300696015 : run err(code format err)
+17307110356 : good job
+17307130321 : run err(no main function)
+18307090206 : run err
+18307110512 : module importing err
+19300680271 : wrong ans( wrong weekday)
+19307100084 : run err
+
+PJ3
+16300120033 : 前10名和后10名弄混了
+17300120160 : 输出后10名的提示和实际循序矛盾了
+17307130222 : 提交第二次作业是什么鬼?
+19307100084 : 前几行复制上了很多无用字符
+
+
+PJ4
+17300110046 : wrong ans
+18301050110 : wrong ans
+
+PJ5
+PJ5
+16300120008 : not accurate
+16300180011 : good job
+16301030056 : timeout
+17300120168 : timeout
+17300180131 : good
+17300696015 : very clear
+17307110356 : clear
+18301020069 : err
+19300680271 : timeout
+PJ6
+17300696015 : 函数定义出来了,也没问题,但是没有打印输出出来
+18300120174 : 函数定义出来了,也没问题,但是没有打印输出出来
