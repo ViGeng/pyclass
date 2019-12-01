@@ -50,3 +50,20 @@ PJ6
 
 PJ7
 18301020069: 提交jar
+16301030056 : 格式错误,运行错误,完成度很低, 50
+17300696015 : 运行错误, 60
+17301050217 : bad format, 95
+17307130222 : err output of sortbyID, 80
+18300120174 : 提交一段无用文本, 0分
+18301020076 : err
+19307100148 : 引用错误, 难道运行成功过? 而且格式凌乱
+PJ8
+16300120110 : width too big
+16301030056 : no right border
+17300696015 : err
+17301050217 : width too big
+18301020069 : width too big
+18301030025 : no right border
+19300680206 : lost a paragraph
+19307100138 : width too big
+19307100148 : width too big
